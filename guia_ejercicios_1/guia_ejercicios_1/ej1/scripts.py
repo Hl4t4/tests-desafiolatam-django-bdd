@@ -59,11 +59,12 @@ p1.save()
 p2.save()
 c1.save()
 
-c1 = Cliente.objectsfirst()
+c1 = Cliente.objects.first()
 productos = c1.producto_set.all()
 
 print(c1)
-print(productos)
+for producto in productos:
+    print([producto])
 
 
 Cliente.objects.all().delete()
