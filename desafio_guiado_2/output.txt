@@ -1,0 +1,270 @@
+<QuerySet []>
+<QuerySet []>
+<QuerySet []>
+
+
+Patente: abc123
+ Marca: marca1
+ Modelo: modelo1
+ Año: 1990
+ Activo: True
+Patente: abc999
+ Marca: marca3
+ Modelo: modelo3
+ Año: 1999
+ Activo: True
+Patente: abc666
+ Marca: marca2
+ Modelo: modelo2
+ Año: 2000
+ Activo: True
+Patente: def123
+ Marca: marca1
+ Modelo: modelo1
+ Año: 2010
+ Activo: True
+Patente: tgh123
+ Marca: marca2
+ Modelo: modelo2
+ Año: 2020
+ Activo: True
+
+
+RUT: 111111111
+ Nombre: nombre1
+ Apellido: apellido1
+ Activo: True
+ Creacion Registro: 2024-05-25
+RUT: 222222222
+ Nombre: nombre2
+ Apellido: apellido2
+ Activo: True
+ Creacion Registro: 2024-05-25
+RUT: 333333333
+ Nombre: nombre3
+ Apellido: apellido3
+ Activo: True
+ Creacion Registro: 2024-05-25
+RUT: 444444444
+ Nombre: nombre4
+ Apellido: apellido4
+ Activo: True
+ Creacion Registro: 2024-05-25
+RUT: 555555555
+ Nombre: nombre5
+ Apellido: apellido5
+ Activo: True
+ Creacion Registro: 2024-05-25
+RUT: 666666666
+ Nombre: nombre6
+ Apellido: apellido6
+ Activo: False
+ Creacion Registro: 2024-05-25
+
+
+RUT: 111111111
+ Nombre: nombre1
+ Apellido: apellido1
+ Activo: True
+ Creacion Registro: 2024-05-25
+RUT: 222222222
+ Nombre: nombre2
+ Apellido: apellido2
+ Activo: True
+ Creacion Registro: 2024-05-25
+RUT: 333333333
+ Nombre: nombre3
+ Apellido: apellido3
+ Activo: True
+ Creacion Registro: 2024-05-25
+RUT: 444444444
+ Nombre: nombre4
+ Apellido: apellido4
+ Activo: True
+ Creacion Registro: 2024-05-25
+RUT: 555555555
+ Nombre: nombre5
+ Apellido: apellido5
+ Activo: True
+ Creacion Registro: 2024-05-25
+RUT: 666666666
+ Nombre: nombre6
+ Apellido: apellido6
+ Activo: False
+ Creacion Registro: 2024-05-25
+
+
+ID: 36
+ Fecha de Compra: 2024-05-25
+ Valor: $999.99
+ID: 37
+ Fecha de Compra: 2024-05-25
+ Valor: $1999.99
+ID: 38
+ Fecha de Compra: 2024-05-25
+ Valor: $2999.99
+ID: 39
+ Fecha de Compra: 2024-05-25
+ Valor: $3999.99
+ID: 40
+ Fecha de Compra: 2024-05-25
+ Valor: $4999.99
+
+
+RUT: 333333333
+ Nombre: nombre3
+ Apellido: apellido3
+ Activo: True
+ Creacion Registro: 2024-05-25
+RUT: 555555555
+ Nombre: nombre5
+ Apellido: apellido5
+ Activo: True
+ Creacion Registro: 2024-05-25
+
+
+RUT: 333333333
+ Nombre: nombre3
+ Apellido: apellido3
+ Activo: False
+ Creacion Registro: 2024-05-25
+RUT: 555555555
+ Nombre: nombre5
+ Apellido: apellido5
+ Activo: False
+ Creacion Registro: 2024-05-25
+
+
+RUT: 666666666
+ Nombre: nombre6
+ Apellido: apellido6
+ Activo: False
+ Creacion Registro: 2024-05-25
+RUT: 666666666
+ Nombre: nombre6
+ Apellido: apellido6
+ Activo: True
+ Creacion Registro: 2024-05-25
+
+
+Patente: abc123
+ Marca: marca1
+ Modelo: modelo1
+ Año: 1990
+ Activo: True
+Patente: def123
+ Marca: marca1
+ Modelo: modelo1
+ Año: 2010
+ Activo: True
+
+
+Patente: abc123
+ Marca: marca1
+ Modelo: modelo1
+ Año: 1990
+ Activo: False
+Patente: def123
+ Marca: marca1
+ Modelo: modelo1
+ Año: 2010
+ Activo: False
+
+
+RUT: 666666666
+ Nombre: nombre6
+ Apellido: apellido6
+ Activo: True
+ Creacion Registro: 2024-05-25
+Patente: abc123
+ Marca: marca1
+ Modelo: modelo1
+ Año: 1990
+ Activo: False
+
+
+Chofer:
+RUT: 111111111
+ Nombre: nombre1
+ Apellido: apellido1
+ Activo: True
+ Creacion Registro: 2024-05-25
+Vehiculo:
+Patente: abc123
+ Marca: marca1
+ Modelo: modelo1
+ Año: 1990
+ Activo: False
+Registro de Contabilidad:
+ID: 36
+ Fecha de Compra: 2024-05-25
+ Valor: $999.99
+
+Chofer:
+RUT: 222222222
+ Nombre: nombre2
+ Apellido: apellido2
+ Activo: True
+ Creacion Registro: 2024-05-25
+Vehiculo:
+Patente: abc999
+ Marca: marca3
+ Modelo: modelo3
+ Año: 1999
+ Activo: True
+Registro de Contabilidad:
+ID: 37
+ Fecha de Compra: 2024-05-25
+ Valor: $1999.99
+
+Chofer:
+RUT: 333333333
+ Nombre: nombre3
+ Apellido: apellido3
+ Activo: False
+ Creacion Registro: 2024-05-25
+Vehiculo:
+Patente: abc666
+ Marca: marca2
+ Modelo: modelo2
+ Año: 2000
+ Activo: True
+Registro de Contabilidad:
+ID: 38
+ Fecha de Compra: 2024-05-25
+ Valor: $2999.99
+
+Chofer:
+RUT: 444444444
+ Nombre: nombre4
+ Apellido: apellido4
+ Activo: True
+ Creacion Registro: 2024-05-25
+Vehiculo:
+Patente: def123
+ Marca: marca1
+ Modelo: modelo1
+ Año: 2010
+ Activo: False
+Registro de Contabilidad:
+ID: 39
+ Fecha de Compra: 2024-05-25
+ Valor: $3999.99
+
+Chofer:
+RUT: 555555555
+ Nombre: nombre5
+ Apellido: apellido5
+ Activo: False
+ Creacion Registro: 2024-05-25
+Vehiculo:
+Patente: tgh123
+ Marca: marca2
+ Modelo: modelo2
+ Año: 2020
+ Activo: True
+Registro de Contabilidad:
+ID: 40
+ Fecha de Compra: 2024-05-25
+ Valor: $4999.99
+
