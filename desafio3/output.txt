@@ -1,0 +1,296 @@
+<QuerySet []>
+<QuerySet []>
+<QuerySet []>
+<QuerySet []>
+
+
+Codigo: abcde12345
+ Nombre: nombre1
+ Version: 5
+Codigo: dfghh67890
+ Nombre: nombre2
+ Version: 4
+Codigo: weiur45678
+ Nombre: nombre3
+ Version: 3
+Codigo: oiugh90123
+ Nombre: nombre4
+ Version: 2
+Codigo: cdbsh45678
+ Nombre: nombre5
+ Version: 1
+
+
+RUT: 111111111
+ Nombre: nombre1
+ Apellido: apellido1
+ Fecha de Nacimiento: 2024-05-25
+ Activo: True
+ Creacion Registro: 2024-05-25
+ Modificacion_Registro = 2024-05-25
+ Creador por: Admin01
+RUT: 222222222
+ Nombre: nombre2
+ Apellido: apellido2
+ Fecha de Nacimiento: 2024-05-25
+ Activo: True
+ Creacion Registro: 2024-05-25
+ Modificacion_Registro = 2024-05-25
+ Creador por: Admin01
+RUT: 333333333
+ Nombre: nombre3
+ Apellido: apellido3
+ Fecha de Nacimiento: 2024-05-25
+ Activo: True
+ Creacion Registro: 2024-05-25
+ Modificacion_Registro = 2024-05-25
+ Creador por: Admin01
+RUT: 444444444
+ Nombre: nombre4
+ Apellido: apellido4
+ Fecha de Nacimiento: 2024-05-25
+ Activo: True
+ Creacion Registro: 2024-05-25
+ Modificacion_Registro = 2024-05-25
+ Creador por: Admin01
+RUT: 555555555
+ Nombre: nombre5
+ Apellido: apellido5
+ Fecha de Nacimiento: 2024-05-25
+ Activo: True
+ Creacion Registro: 2024-05-25
+ Modificacion_Registro = 2024-05-25
+ Creador por: Admin01
+RUT: 666666666
+ Nombre: nombre6
+ Apellido: apellido6
+ Fecha de Nacimiento: 2024-05-25
+ Activo: True
+ Creacion Registro: 2024-05-25
+ Modificacion_Registro = 2024-05-25
+ Creador por: Admin01
+RUT: 777777777
+ Nombre: nombre7
+ Apellido: apellido7
+ Fecha de Nacimiento: 2024-05-25
+ Activo: True
+ Creacion Registro: 2024-05-25
+ Modificacion_Registro = 2024-05-25
+ Creador por: Admin01
+RUT: 888888888
+ Nombre: nombre8
+ Apellido: apellido8
+ Fecha de Nacimiento: 2024-05-25
+ Activo: True
+ Creacion Registro: 2024-05-25
+ Modificacion_Registro = 2024-05-25
+ Creador por: Admin01
+RUT: 999999999
+ Nombre: nombre9
+ Apellido: apellido9
+ Fecha de Nacimiento: 2024-05-25
+ Activo: True
+ Creacion Registro: 2024-05-25
+ Modificacion_Registro = 2024-05-25
+ Creador por: Admin01
+RUT: 000000000
+ Nombre: nombre10
+ Apellido: apellido10
+ Fecha de Nacimiento: 2024-05-25
+ Activo: True
+ Creacion Registro: 2024-05-25
+ Modificacion_Registro = 2024-05-25
+ Creador por: Admin01
+
+
+ID: 51
+ Calle: calle1 1111, AAA, comuna1, Metropolitana
+ID: 52
+ Calle: calle2 2222, BBB, comuna2, Metropolitana
+ID: 53
+ Calle: calle3 3333, CCC, comuna3, Metropolitana
+ID: 54
+ Calle: calle4 4444, DDD, comuna4, Metropolitana
+ID: 55
+ Calle: calle5 5555, EEE, comuna5, Metropolitana
+ID: 56
+ Calle: calle6 6666, FFF, comuna6, Metropolitana
+ID: 57
+ Calle: calle7 7777, GGG, comuna7, Metropolitana
+ID: 58
+ Calle: calle8 8888, HHH, comuna8, Metropolitana
+ID: 59
+ Calle: calle9 9999, JJJ, comuna9, Metropolitana
+ID: 60
+ Calle: calle10 0000, KKK, comuna10, Metropolitana
+
+
+RUT: 111111111
+ Nombre: nombre1
+ Apellido: apellido1
+ Creacion Registro: 2024-05-25
+ Modificacion_Registro = 2024-05-25
+ Creador por: Admin01
+RUT: 222222222
+ Nombre: nombre2
+ Apellido: apellido2
+ Creacion Registro: 2024-05-25
+ Modificacion_Registro = 2024-05-25
+ Creador por: Admin01
+RUT: 333333333
+ Nombre: nombre3
+ Apellido: apellido3
+ Creacion Registro: 2024-05-25
+ Modificacion_Registro = 2024-05-25
+ Creador por: Admin01
+RUT: 444444444
+ Nombre: nombre4
+ Apellido: apellido4
+ Creacion Registro: 2024-05-25
+ Modificacion_Registro = 2024-05-25
+ Creador por: Admin01
+RUT: 555555555
+ Nombre: nombre5
+ Apellido: apellido5
+ Creacion Registro: 2024-05-25
+ Modificacion_Registro = 2024-05-25
+ Creador por: Admin01
+RUT: 666666666
+ Nombre: nombre6
+ Apellido: apellido6
+ Creacion Registro: 2024-05-25
+ Modificacion_Registro = 2024-05-25
+ Creador por: Admin01
+RUT: 777777777
+ Nombre: nombre7
+ Apellido: apellido7
+ Creacion Registro: 2024-05-25
+ Modificacion_Registro = 2024-05-25
+ Creador por: Admin01
+RUT: 888888888
+ Nombre: nombre8
+ Apellido: apellido8
+ Creacion Registro: 2024-05-25
+ Modificacion_Registro = 2024-05-25
+ Creador por: Admin01
+RUT: 999999999
+ Nombre: nombre9
+ Apellido: apellido9
+ Creacion Registro: 2024-05-25
+ Modificacion_Registro = 2024-05-25
+ Creador por: Admin01
+RUT: 000000000
+ Nombre: nombre10
+ Apellido: apellido10
+ Creacion Registro: 2024-05-25
+ Modificacion_Registro = 2024-05-25
+ Creador por: Admin01
+
+
+RUT: 444444444
+ Nombre: nombre4
+ Apellido: apellido4
+ Fecha de Nacimiento: 2024-05-25
+ Activo: True
+ Creacion Registro: 2024-05-25
+ Modificacion_Registro = 2024-05-25
+ Creador por: Admin01
+Codigo: dfghh67890
+ Nombre: nombre2
+ Version: 4
+RUT: 666666666
+ Nombre: nombre6
+ Apellido: apellido6
+ Creacion Registro: 2024-05-25
+ Modificacion_Registro = 2024-05-25
+ Creador por: Admin01
+
+
+Estudiante
+RUT: 111111111
+ Nombre: nombre1
+ Apellido: apellido1
+ Creacion Registro: 2024-05-25
+ Modificacion_Registro = 2024-05-25
+ Creador por: Admin01
+Curso
+Codigo: abcde12345
+ Nombre: nombre1
+ Version: 5
+Curso
+Codigo: dfghh67890
+ Nombre: nombre2
+ Version: 4
+Curso
+Codigo: weiur45678
+ Nombre: nombre3
+ Version: 3
+Estudiante
+RUT: 777777777
+ Nombre: nombre7
+ Apellido: apellido7
+ Creacion Registro: 2024-05-25
+ Modificacion_Registro = 2024-05-25
+ Creador por: Admin01
+Curso
+Codigo: cdbsh45678
+ Nombre: nombre5
+ Version: 1
+Curso
+Codigo: oiugh90123
+ Nombre: nombre4
+ Version: 2
+
+
+Estudiante
+RUT: 444444444
+ Nombre: nombre4
+ Apellido: apellido4
+ Fecha de Nacimiento: 2024-05-25
+ Activo: True
+ Creacion Registro: 2024-05-25
+ Modificacion_Registro = 2024-05-25
+ Creador por: Admin01
+Curso
+Codigo: cdbsh45678
+ Nombre: nombre5
+ Version: 1
+Curso
+Codigo: dfghh67890
+ Nombre: nombre2
+ Version: 4
+Curso
+Codigo: weiur45678
+ Nombre: nombre3
+ Version: 3
+Estudiante
+RUT: 000000000
+ Nombre: nombre10
+ Apellido: apellido10
+ Fecha de Nacimiento: 2024-05-25
+ Activo: True
+ Creacion Registro: 2024-05-25
+ Modificacion_Registro = 2024-05-25
+ Creador por: Admin01
+Curso
+Codigo: abcde12345
+ Nombre: nombre1
+ Version: 5
+Curso
+Codigo: cdbsh45678
+ Nombre: nombre5
+ Version: 1
+Curso
+Codigo: dfghh67890
+ Nombre: nombre2
+ Version: 4
+Curso
+Codigo: oiugh90123
+ Nombre: nombre4
+ Version: 2
+Curso
+Codigo: weiur45678
+ Nombre: nombre3
+ Version: 3
+
+
